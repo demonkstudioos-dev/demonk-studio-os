@@ -1,0 +1,12 @@
+{
+  "name": "demonk OS",
+  "description": "A high-performance operational intelligence SaaS for design and project management. Manage projects, tasks, time tracking, cost intelligence, expenses, and payments in one unified platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Project Management",
+    "Time Tracking",
+    "Financial Intelligence",
+    "Real-time Notifications",
+    "Gantt Charts"
+  ]
+}
